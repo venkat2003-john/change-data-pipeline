@@ -1,0 +1,10 @@
+
+event_id,customer_id,event_type,event_timestamp,name,email
+evt001,C001,INSERT,2026-10-01T09:00:00,Ravi,ravi@example.com
+evt002,C002,INSERT,2026-10-01T09:05:00,Sita,sita@example.com
+evt003,C001,UPDATE,2026-10-02T10:00:00,Rahul,rahul@example.com
+evt004,C003,INSERT,2026-10-02T11:00:00,Arun,arun@example.com
+evt005,C002,DELETE,2026-10-03T12:00:00,,
+evt003,C001,UPDATE,2026-10-02T10:00:00,Rahul,rahul@example.com
+evt006,C001,UPDATE,2026-10-01T12:00:00,Old Name,old@example.com
+evt007,,INSERT,2026-10-04T09:00:00,Invalid,

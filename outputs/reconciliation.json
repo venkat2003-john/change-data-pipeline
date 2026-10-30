@@ -1,0 +1,13 @@
+{
+  "run_id": "3ace9875-6e5e-4e4a-be4e-d46404dc2785",
+  "input_rows": 8,
+  "accepted_new_events": 6,
+  "rejected_rows": 2,
+  "total_history_rows": 6,
+  "unique_history_event_ids": 6,
+  "duplicate_history_event_ids": 0,
+  "current_customer_rows": 2,
+  "current_state_matches_history_replay": true,
+  "history_count_reconciles": true,
+  "status": "passed"
+}

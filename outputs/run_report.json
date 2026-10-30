@@ -1,0 +1,14 @@
+{
+  "run_id": "3ace9875-6e5e-4e4a-be4e-d46404dc2785",
+  "status": "success",
+  "started_at": "2026-10-30T12:14:20.786974+00:00",
+  "ended_at": "2026-10-30T12:14:20.817972+00:00",
+  "duration_seconds": 0.030457,
+  "source_file": "sample_events.csv",
+  "input_rows": 8,
+  "accepted_new_events": 6,
+  "rejected_rows": 2,
+  "total_history_rows": 6,
+  "current_customer_rows": 2,
+  "reconciliation_status": "passed"
+}

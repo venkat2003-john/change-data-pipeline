@@ -1,0 +1,7 @@
+event_id,customer_id,event_type,event_timestamp,name,email
+evt001,C001,INSERT,2026-10-01T09:00:00Z,Ravi,ravi@example.com
+evt002,C002,INSERT,2026-10-01T09:05:00Z,Sita,sita@example.com
+evt006,C001,UPDATE,2026-10-01T12:00:00Z,Old Name,old@example.com
+evt003,C001,UPDATE,2026-10-02T10:00:00Z,Rahul,rahul@example.com
+evt004,C003,INSERT,2026-10-02T11:00:00Z,Arun,arun@example.com
+evt005,C002,DELETE,2026-10-03T12:00:00Z,,
